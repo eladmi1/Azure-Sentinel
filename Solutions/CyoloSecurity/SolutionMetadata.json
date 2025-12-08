@@ -1,17 +1,16 @@
 {
-	"publisherId": "test",
+	"publisherId": "CyoloSecurity",
 	"offerId": "azure-sentinel-cyolo",
 	"firstPublishDate": "2022-05-23",
 	"providers": ["Cyolo"],
 	"categories": {
-		"domains" : ["Security - Automation (SOAR)",
-		"Security - Threat Protection"],
+		"domains" : ["Security - Automation (SOAR)"],
 		"verticals": []
 	},
 	"support": {
 		"tier": "Partner",
 		"name": "Cyolo Security",
-		"email": "test",
-		"link": "test"
+		"email": "support@cyolo.io",
+		"link": "https://cyolo.io/contact-us"
 	}
 }
